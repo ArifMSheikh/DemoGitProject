@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCast1", "WebCast1\WebCast1.csproj", "{0EF3DC8D-1D18-47A9-B3D9-88CF7D0C16AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF3DC8D-1D18-47A9-B3D9-88CF7D0C16AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF3DC8D-1D18-47A9-B3D9-88CF7D0C16AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF3DC8D-1D18-47A9-B3D9-88CF7D0C16AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF3DC8D-1D18-47A9-B3D9-88CF7D0C16AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FBD7908-5745-4044-9AAD-51071F6A6105}
+	EndGlobalSection
+EndGlobal
